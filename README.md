@@ -1,4 +1,4 @@
-# (SIPS)Smart-IoT-Planting-System
+# Smart-IoT-Planting-System
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)   
 SIPS is an intelligence/smart/automatic planting system in the agricultural greenhouse which is base on IoT technology.   
 It consists of sensors, terminal device(STM32 MCU), gateway(RPi), Web server.   
